@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0121/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5d0121/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 內丹還元訣
+  date: '2015-08-29 02:05:23.219631'
+  source:
+    repository: kanripo
+    path: KR5d0121
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0121_000-ZTDZ.yaml, hash: 'sha256:c68c638cb409e4f282ce3ac215836eaec088d9566a3f39bdea7efd498c981dec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0121_000-ZTDZ.markers.yaml, hash: 'sha256:d677f160eb59d27ec530dc24709261d14849743245703276b1b272f351ae25a3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0121_SJB_000-240248b
+    span:
+    - body
+    - 0
+    - 810
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:145a3b1b5f9a7cbd6efeb51eab66765b2e8ce095f01690e5bf4501d0196b7f51
